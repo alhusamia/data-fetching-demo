@@ -1,6 +1,6 @@
 import Form from "next/form";
 
-export default function Page() {
+export default function Search() {
   return (
     <Form action="/products-db" className="flex gap-2">
       <input
